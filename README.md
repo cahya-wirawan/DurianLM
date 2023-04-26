@@ -1,7 +1,5 @@
-![Durian Logo](/images/DurianLM-01.jpg)
-
 # DurianLM
-Multilingual Language Model
+<img src="/images/DurianLM-01.jpg" alt="Durian Logo" width="160" height="208"/>
 
 Introducing DurianLM - the newest addition to the world of language models! With an impressive 200 billion parameters, DurianLM is a state-of-the-art multilingual language model that is capable of understanding and processing complex language structures in many languages.
 
