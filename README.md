@@ -9,4 +9,4 @@ Whether you're a language enthusiast, a researcher, or just someone looking to c
 
 So what are you waiting for? Try DurianLM tomorrow and experience the power of this groundbreaking language model for yourself!
 
-_Disclaimer: This is just an advertisement written by ChatGPT, but the real one will follow ;-)_
+_Disclaimer: This is just an advertisement written by ChatGPT, but the real one will follow, maybe ;-)_
