@@ -1,3 +1,5 @@
+![Durian Logo](/images/DurianLM-01.jpg)
+
 # DurianLM
 Multilingual Language Model
 
